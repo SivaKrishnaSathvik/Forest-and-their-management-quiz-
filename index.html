@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forests and Their Management Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Forests and Their Management Quiz</h1>
+        <div id="quiz">
+            <div id="question"></div>
+            <div id="options"></div>
+            <div id="feedback"></div>
+        </div>
+        <div id="result" style="display: none;">
+            <h2>Quiz Completed!</h2>
+            <p id="score"></p>
+            <h3>Wrongly Answered Questions:</h3>
+            <div id="wrong-answers"></div>
+            <button onclick="restartQuiz()">Restart Quiz</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
