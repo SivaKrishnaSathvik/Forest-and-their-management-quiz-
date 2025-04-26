@@ -434,4 +434,291 @@ const questions = [
         correct: "b. humboldt face"
     },
     {
-        question: "Moving of logs from forest to landin
+        question: "Moving of logs from forest to landing area is known as",
+        options: ["a. marking", "b. bucking", "c. skidding", "d. delimbing"],
+        correct: "c. skidding"
+    },
+    {
+        question: "Surveying timberlands to locate and estimate the volumes and grades of standing timber meeting requirements is known as",
+        options: ["a. surveying", "b. cruising", "c. marking", "d. logging"],
+        correct: "b. cruising"
+    },
+    // Assignment 10
+    {
+        question: "Wet and dry treatment of seeds is used for which species",
+        options: ["a. amla", "b. mango", "c. ber", "d. teak"],
+        correct: "d. teak"
+    },
+    {
+        question: "Which of these is not a laboratory method to determine best days for seed collection?",
+        options: ["a. maximum dry weight", "b. colour of fruits", "c. moisture content of fruits", "d. chemical analysis of fat and nitrogen content"],
+        correct: "b. colour of fruits"
+    },
+    {
+        question: "Which of these characterises a refractory site",
+        options: ["a. soil depth <10 cm", "b. soil depth 10-30 cm", "c. soil depth >30 cm", "d. none of these"],
+        correct: "a. soil depth <10 cm"
+    },
+    {
+        question: "Which of these prevents water logging",
+        options: ["a. sunken bed", "b. raised bed", "c. flat bed", "d. all of these"],
+        correct: "b. raised bed"
+    },
+    {
+        question: "Number of seeds in sample that germinate up to the peak germination period expressed as % is a definition of",
+        options: ["a. germination number", "b. germination percentage", "c. germination energy", "d. germination power"],
+        correct: "c. germination energy"
+    },
+    {
+        question: "Which of these conserves moisture",
+        options: ["a. sunken bed", "b. raised bed", "c. flat bed", "d. all of these"],
+        correct: "a. sunken bed"
+    },
+    {
+        question: "Agave is used for",
+        options: ["a. barbed wire fencing", "b. live fencing", "c. chain link fencing", "d. stone wall fencing"],
+        correct: "b. live fencing"
+    },
+    {
+        question: "Shell cracking of seeds is used for which species",
+        options: ["a. amla", "b. mango", "c. ber", "d. teak"],
+        correct: "c. ber"
+    },
+    {
+        question: "Choice of spacing is dependent upon",
+        options: ["a. objective of plantation", "b. site-species matching", "c. growth rate", "d. all of these"],
+        correct: "d. all of these"
+    },
+    {
+        question: "Which of these is a good storage condition",
+        options: [
+            "a. high moisture, high temperature",
+            "b. high moisture, low temperature",
+            "c. low moisture, high temperature",
+            "d. low moisture, low temperature"
+        ],
+        correct: "d. low moisture, low temperature"
+    },
+    // Assignment 11
+    {
+        question: "Planting along canal banks is a part of",
+        options: ["a. farm forestry", "b. community forestry", "c. extension forestry", "d. agroforestry"],
+        correct: "c. extension forestry"
+    },
+    {
+        question: "Captive breeding is an example of",
+        options: ["a. in-situ conservation", "b. ex-situ conservation", "c. in-situ preservation", "d. ex-situ preservation"],
+        correct: "b. ex-situ conservation"
+    },
+    {
+        question: "The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as",
+        options: ["a. umbrella species", "b. keystone species", "c. flagship species", "d. all of the above"],
+        correct: "d. all of the above"
+    },
+    {
+        question: "Sustainable harvest of resources falls under the category of:",
+        options: ["a. conservation", "b. preservation", "c. environmentalism", "d. none of the above"],
+        correct: "a. conservation"
+    },
+    {
+        question: "The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",
+        options: ["a. umbrella species", "b. keystone species", "c. flagship species", "d. all of the above"],
+        correct: "d. all of the above"
+    },
+    {
+        question: "People come to Sessa orchid sanctuary in Arunachal Pradesh to witness orchids, which in this context would be classified as",
+        options: ["a. umbrella species", "b. keystone species", "c. flagship species", "d. extinct species"],
+        correct: "c. flagship species"
+    },
+    {
+        question: "We prefer those areas for the creation of a conservation reserve where the level of threat is",
+        options: ["a. very high", "b. medium", "c. very low", "d. non-existent"],
+        correct: "c. very low"
+    },
+    {
+        question: "Which of these is not a forest classification as per the 1894 Forest Policy:",
+        options: ["a. protection forest", "b. production forest", "c. minor forest", "d. major forest"],
+        correct: "d. major forest"
+    },
+    {
+        question: '"Science of relationships between organisms and their environments" is the definition of:',
+        options: ["a. conservation", "b. preservation", "c. environmentalism", "d. ecology"],
+        correct: "d. ecology"
+    },
+    {
+        question: "In 1931, Van Panchayats were constituted in areas that are now in",
+        options: ["a. Tamil Nadu", "b. Madhya Pradesh", "c. West Bengal", "d. Uttarakhand"],
+        correct: "d. Uttarakhand"
+    },
+    // Assignment 12
+    {
+        question: "The term laterite soil is derived from Latin later which means",
+        options: ["a. red", "b. brick", "c. fertile", "d. infertile"],
+        correct: "b. brick"
+    },
+    {
+        question: "Zoo is an example of",
+        options: ["a. in-situ conservation", "b. ex-situ conservation", "c. in-situ preservation", "d. ex-situ preservation"],
+        correct: "b. ex-situ conservation"
+    },
+    {
+        question: "The breast height for Japan and Korea is",
+        options: ["a. 1.1 m", "b. 1.2 m", "c. 1.3 m", "d. 1.4 m"],
+        correct: "c. 1.3 m"
+    },
+    {
+        question: "The art and science of cultivating forest crops is called",
+        options: ["a. foresticulture", "b. monoculture", "c. silviculture", "d. silvics"],
+        correct: "c. silviculture"
+    },
+    {
+        question: "A tree has dbh of 35 cm. Find its basal area in sq m.",
+        options: ["a. 0.049", "b. 0.096", "c. 0.149", "d. 0.195"],
+        correct: "b. 0.096"
+    },
+    {
+        question: "Self ploughing character is seen in",
+        options: ["a. black cotton soil", "b. alluvial soil", "c. saline soil", "d. red and yellow soil"],
+        correct: "a. black cotton soil"
+    },
+    {
+        question: "Vertical arrangement of soil horizons is called",
+        options: ["a. soil texture", "b. soil structure", "c. soil profile", "d. soil science"],
+        correct: "c. soil profile"
+    },
+    {
+        question: "In a triangle, the angle between base and hypotenuse, θ=60° and the hypotenuse c=4 cm. Find the length of the base b.",
+        options: ["a. 0.66", "b. 1", "c. 1.5", "d. 2"],
+        correct: "d. 2"
+    },
+    {
+        question: '"Allowing some places and some creatures to exist without significant human interference" is a definition of',
+        options: ["a. conservation", "b. preservation", "c. environmentalism", "d. all of these"],
+        correct: "b. preservation"
+    },
+    {
+        question: "Montane sub-tropical forests do not include",
+        options: ["a. broadleaved forests", "b. pine forests", "c. semi-evergreen forests", "d. dry evergreen forests"],
+        correct: "d. dry evergreen forests"
+    }
+];
+
+// Quiz state
+let currentQuestionIndex = 0;
+let score = 0;
+let wrongAnswers = [];
+let shuffledQuestions = [];
+
+// DOM elements
+const questionEl = document.getElementById('question');
+const optionsEl = document.getElementById('options');
+const feedbackEl = document.getElementById('feedback');
+const quizEl = document.getElementById('quiz');
+const resultEl = document.getElementById('result');
+const scoreEl = document.getElementById('score');
+const wrongAnswersEl = document.getElementById('wrong-answers');
+
+// Shuffle array function
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
+// Start quiz
+function startQuiz() {
+    shuffledQuestions = shuffle([...questions]);
+    currentQuestionIndex = 0;
+    score = 0;
+    wrongAnswers = [];
+    quizEl.style.display = 'block';
+    resultEl.style.display = 'none';
+    loadQuestion();
+}
+
+// Load question
+function loadQuestion() {
+    const currentQuestion = shuffledQuestions[currentQuestionIndex];
+    questionEl.textContent = currentQuestion.question;
+    optionsEl.innerHTML = '';
+    feedbackEl.textContent = '';
+
+    currentQuestion.options.forEach(option => {
+        const optionEl = document.createElement('div');
+        optionEl.classList.add('option');
+        optionEl.textContent = option;
+        optionEl.addEventListener('click', () => handleAnswer(option, currentQuestion.correct));
+        optionsEl.appendChild(optionEl);
+    });
+}
+
+// Handle answer selection
+function handleAnswer(selected, correct) {
+    const currentQuestion = shuffledQuestions[currentQuestionIndex];
+    const optionEls = optionsEl.getElementsByClassName('option');
+
+    // Disable further clicks
+    for (let optionEl of optionEls) {
+        optionEl.style.pointerEvents = 'none';
+        if (optionEl.textContent === correct) {
+            optionEl.classList.add('correct');
+        }
+    }
+
+    // Check if answer is correct
+    if (selected === correct) {
+        feedbackEl.textContent = 'Correct!';
+        feedbackEl.style.color = 'green';
+        score++;
+    } else {
+        const selectedEl = Array.from(optionEls).find(el => el.textContent === selected);
+        selectedEl.classList.add('wrong');
+        feedbackEl.textContent = `Wrong! The correct answer is: ${correct}`;
+        feedbackEl.style.color = 'red';
+        wrongAnswers.push({
+            question: currentQuestion.question,
+            selected: selected,
+            correct: correct
+        });
+    }
+
+    // Move to next question after a delay
+    setTimeout(() => {
+        currentQuestionIndex++;
+        if (currentQuestionIndex < shuffledQuestions.length) {
+            loadQuestion();
+        } else {
+            showResults();
+        }
+    }, 1500);
+}
+
+// Show results
+function showResults() {
+    quizEl.style.display = 'none';
+    resultEl.style.display = 'block';
+    scoreEl.textContent = `Your score: ${score} out of ${shuffledQuestions.length} (${((score / shuffledQuestions.length) * 100).toFixed(2)}%)`;
+
+    wrongAnswersEl.innerHTML = '';
+    if (wrongAnswers.length === 0) {
+        wrongAnswersEl.textContent = 'No wrong answers!';
+    } else {
+        wrongAnswers.forEach((wrong, index) => {
+            const wrongEl = document.createElement('div');
+            wrongEl.innerHTML = `<strong>Question ${index + 1}:</strong> ${wrong.question}<br>
+                                 <strong>Your Answer:</strong> ${wrong.selected}<br>
+                                 <strong>Correct Answer:</strong> ${wrong.correct}`;
+            wrongAnswersEl.appendChild(wrongEl);
+        });
+    }
+}
+
+// Restart quiz
+function restartQuiz() {
+    startQuiz();
+}
+
+// Initialize quiz
+startQuiz();
